@@ -2,7 +2,7 @@
 
 This is a demonstration on how to use debugging tools in Visual Studio Code. This project currently has bugs that have been left there intentionally. The fixes have been provided in branches `places-fix` for Places code and `client-fix` for the client-side code.
 
-The article that goes along with this project can be found on [Sitepoint](https://www.sitepoint.com). The article is titled **A Guide to Debugging a JavaScript Project Using VS Code and the Chrome Debugger**.
+The article that goes along with this project can be found on [Sitepoint](https://www.sitepoint.com). The article is titled [**A Guide to Debugging a JavaScript Project Using VS Code and the Chrome Debugger**.](https://www.sitepoint.com/debugging-javascript-projects-vs-code-chrome-debugger/)
 
 ## Requirements
 
